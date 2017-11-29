@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "data": {
+    "alias": "张三",
+    "attemptClock": 0,
+    "attemptFailed": 0,
+    "attemptIp": "",
+    "autologin": 0,
+    "autologout": 900,
+    "lang": "en_GB",
+    "name": "zhangsan",
+    "passwd": "",
+    "refresh": 30,
+    "rowsPerPage": 50,
+    "surname": "",
+    "theme": "default",
+    "type": 1,
+    "url": "",
+    "userid": 3
+  }
+}
