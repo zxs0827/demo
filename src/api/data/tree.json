@@ -41,16 +41,83 @@
         "zaResourceId": 2
     },
     {
-        "description": "告警历史日志",
+        "description": "系统管理",
         "flag": "1",
         "isAvaible": "1",
         "level": 1,
         "menuIcon": "icon-feed",
         "menuUrl": "/alarmview/toAlarmHistoryIndex",
-        "name": "告警历史日志",
+        "name": "系统管理",
         "resourceUrl": "/alarmview/toAlarmHistoryIndex*",
         "sortNo": 4,
-        "sublist": [],
+        "sublist": [
+          {
+            "description": "业务系统管理",
+            "flag": "1",
+            "isAvaible": "1",
+            "level": 2,
+            "menuIcon": "entypo-doc",
+            "menuUrl": "/report/toReportIndex",
+            "name": "业务系统管理",
+            "parentId": 24,
+            "resourceUrl": "/report/toReportIndex*",
+            "sortNo": 1,
+            "sublist": [],
+            "zaResourceId": 8
+          },{
+            "description": "警告时限管理",
+            "flag": "1",
+            "isAvaible": "1",
+            "level": 2,
+            "menuIcon": "entypo-doc",
+            "menuUrl": "/report/toReportIndex",
+            "name": "警告时限管理",
+            "parentId": 24,
+            "resourceUrl": "/report/toReportIndex*",
+            "sortNo": 1,
+            "sublist": [],
+            "zaResourceId": 8
+          },{
+            "description": "用户管理",
+            "flag": "1",
+            "isAvaible": "1",
+            "level": 2,
+            "menuIcon": "entypo-doc",
+            "menuUrl": "/report/toReportIndex",
+            "name": "用户管理",
+            "parentId": 24,
+            "resourceUrl": "/report/toReportIndex*",
+            "sortNo": 1,
+            "sublist": [],
+            "zaResourceId": 8
+          },{
+            "description": "用户组管理",
+            "flag": "1",
+            "isAvaible": "1",
+            "level": 2,
+            "menuIcon": "entypo-doc",
+            "menuUrl": "/report/toReportIndex",
+            "name": "用户组管理",
+            "parentId": 24,
+            "resourceUrl": "/report/toReportIndex*",
+            "sortNo": 1,
+            "sublist": [],
+            "zaResourceId": 8
+          },{
+            "description": "权限管理",
+            "flag": "1",
+            "isAvaible": "1",
+            "level": 2,
+            "menuIcon": "entypo-doc",
+            "menuUrl": "/report/toReportIndex",
+            "name": "权限管理",
+            "parentId": 24,
+            "resourceUrl": "/report/toReportIndex*",
+            "sortNo": 1,
+            "sublist": [],
+            "zaResourceId": 8
+          }
+        ],
         "zaResourceId": 3
     },
     {

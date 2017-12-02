@@ -180,7 +180,7 @@
       .logo {
         width: 244px;
         height: 55px;
-        background-image: url("../../assets/login/logo.png");
+        background-image: url("../../assets/common/logo.png");
       }
     }
 

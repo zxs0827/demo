@@ -2,16 +2,16 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css'
+// import ElementUI from 'element-ui'
+// import 'element-ui/lib/theme-chalk/index.css'
 import routes from './router'
 import store from './store'
-import App from './App'
+import './style/common.scss'
 
 Vue.config.productionTip = false
 
 Vue.use(VueRouter)
-Vue.use(ElementUI)
+// Vue.use(ElementUI)
 
 // 路由
 const router = new VueRouter({
@@ -32,6 +32,5 @@ router.beforeEach((to, from, next) => {
 /* eslint-disable no-new */
 new Vue({
   router,
-  store,
-  render: r => r(App)// 渲染函数
+  store
 }).$mount('#app')

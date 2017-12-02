@@ -1,1 +1,305 @@
-{"code":0,"data":[{"description":"Ê×Ò³","flag":"1","isAvaible":"1","level":1,"menuUrl":"/sysmain/sysMain","name":"Ê×Ò³","resourceUrl":"/sysmain/sysMain*","sortNo":1,"sublist":[],"zaResourceId":77},{"description":"¼à¿Ø¹ÜÀí","flag":"1","isAvaible":"1","level":1,"menuUrl":"#","name":"¼à¿Ø¹ÜÀí","resourceUrl":"#","sortNo":2,"sublist":[{"description":"Éè±¸ÏêÏ¸ĞÔÄÜ","flag":"1","isAvaible":"1","level":2,"menuIcon":"","menuUrl":"/reportfrom/toReportfromIndex","name":"Éè±¸ÏêÏ¸ĞÔÄÜ","parentId":78,"resourceUrl":"/reportfrom/toReportfromIndex*","sortNo":3,"sublist":[],"zaResourceId":79},{"description":"¼à¿ØÏîĞÅÏ¢","flag":"1","isAvaible":"1","level":2,"menuUrl":"/latestdata/toLatestdataIndex","name":"¼à¿ØÏîĞÅÏ¢","parentId":78,"resourceUrl":"/latestdata/toLatestdataIndex*","sortNo":4,"sublist":[],"zaResourceId":80},{"description":"µ±Ç°¸æ¾¯","flag":"1","isAvaible":"1","level":2,"menuUrl":"/alarmview/toAlarmByTree","name":"µ±Ç°¸æ¾¯","parentId":78,"resourceUrl":"/alarmview/toAlarmByTree","sortNo":5,"sublist":[],"zaResourceId":81},{"description":"ÀúÊ·¸æ¾¯","flag":"1","isAvaible":"1","level":2,"menuUrl":"/alarmview/toAlarmHistoryIndex","name":"ÀúÊ·¸æ¾¯","parentId":78,"resourceUrl":"/alarmview/toAlarmHistoryIndex","sortNo":6,"sublist":[],"zaResourceId":82}],"zaResourceId":78},{"description":"Êı¾İ±¨±í","flag":"1","isAvaible":"1","level":1,"menuUrl":"#","name":"Êı¾İ±¨±í","resourceUrl":"#","sortNo":7,"sublist":[{"description":"cpu","flag":"1","isAvaible":"1","level":2,"menuUrl":"/report/toReportIndex","name":"cpu","parentId":83,"resourceUrl":"/report/toReportIndex","sortNo":8,"sublist":[],"zaResourceId":84},{"description":"Ã¦Ê±","flag":"1","isAvaible":"1","level":2,"menuUrl":"/report/toReportBusy","name":"Ã¦Ê±","parentId":83,"resourceUrl":"/report/toReportBusy","sortNo":9,"sublist":[],"zaResourceId":85},{"description":"´ÅÅÌ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/diskreport/toDiskReportIndex","name":"´ÅÅÌ","parentId":83,"resourceUrl":"/diskreport/toDiskReportIndex","sortNo":10,"sublist":[],"zaResourceId":86}],"zaResourceId":83},{"description":"ÏµÍ³¹ÜÀí","flag":"1","isAvaible":"1","level":1,"menuUrl":"#","name":"ÏµÍ³¹ÜÀí","resourceUrl":"#","sortNo":11,"sublist":[{"description":"ÒµÎñÏµÍ³¹ÜÀí","flag":"1","isAvaible":"1","level":2,"menuUrl":"/system/toSysTemIndex","name":"ÒµÎñÏµÍ³¹ÜÀí","parentId":87,"resourceUrl":"/system/toSysTemIndex","sortNo":12,"sublist":[],"zaResourceId":88},{"description":"¸æ¾¯Ê±ÏŞ¹ÜÀí","flag":"1","isAvaible":"1","level":2,"menuUrl":"/sla/querySla","name":"¸æ¾¯Ê±ÏŞ¹ÜÀí","parentId":87,"resourceUrl":"/sla/querySla","sortNo":13,"sublist":[],"zaResourceId":89},{"description":"ÓÃ»§¹ÜÀí","flag":"1","isAvaible":"1","level":2,"menuUrl":"/sys/users/toUsersIndex","name":"ÓÃ»§¹ÜÀí","parentId":87,"resourceUrl":"/sys/users/toUsersIndex","sortNo":14,"sublist":[],"zaResourceId":90},{"description":"ÓÃ»§×é¹ÜÀí","flag":"1","isAvaible":"1","level":2,"menuUrl":"/systemManagement/userGroupManagement","name":"ÓÃ»§×é¹ÜÀí","parentId":87,"resourceUrl":"/systemManagement/userGroupManagement","sortNo":15,"sublist":[],"zaResourceId":91},{"description":"È¨ÏŞ¹ÜÀí","flag":"1","isAvaible":"1","level":2,"menuUrl":"/usgrresource/toUsgrResourceIndex","name":"È¨ÏŞ¹ÜÀí","parentId":87,"resourceUrl":"/usgrresource/toUsgrResourceIndex","sortNo":16,"sublist":[],"zaResourceId":92}],"zaResourceId":87},{"description":"ÅäÖÃ¹ÜÀí","flag":"1","isAvaible":"1","level":1,"menuUrl":"#","name":"ÅäÖÃ¹ÜÀí","resourceUrl":"#","sortNo":17,"sublist":[{"description":"Ö÷»úÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/hostsprofile/toIndex","name":"Ö÷»úÅäÖÃ","parentId":93,"resourceUrl":"/hostsprofile/toIndex","sortNo":18,"sublist":[],"zaResourceId":94},{"description":"Ö÷»ú×éÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/group/listGroup","name":"Ö÷»ú×éÅäÖÃ","parentId":93,"resourceUrl":"/group/listGroup","sortNo":19,"sublist":[],"zaResourceId":95},{"description":"¶¯×÷ÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/action/toActiontIndex","name":"¶¯×÷ÅäÖÃ","parentId":93,"resourceUrl":"/action/toActiontIndex","sortNo":20,"sublist":[],"zaResourceId":96},{"description":"Ä£°åÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/template/templateConf","name":"Ä£°åÅäÖÃ","parentId":93,"resourceUrl":"/template/templateConf","sortNo":21,"sublist":[],"zaResourceId":97},{"description":"Î¬»¤ÆÚÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/maintenance/toMaintenanceList","name":"Î¬»¤ÆÚÅäÖÃ","parentId":93,"resourceUrl":"/maintenance/toMaintenanceList","sortNo":22,"sublist":[],"zaResourceId":98},{"description":"ÍØÆËÅäÖÃ","flag":"1","isAvaible":"1","level":2,"menuUrl":"/topology/toTopologylist","name":"ÍØÆËÅäÖÃ","parentId":93,"resourceUrl":"/topology/toTopologylist","sortNo":23,"sublist":[],"zaResourceId":99}],"zaResourceId":93}],"info":"»ñÈ¡²Ëµ¥³É¹¦£¡"}
+{
+  "code": 0,
+  "data": [
+    {
+      "description": "é¦–é¡µ",
+      "flag": "1",
+      "isAvaible": "1",
+      "level": 1,
+      "menuUrl": "/overview/index",
+      "name": "é¦–é¡µ",
+      "resourceUrl": "/overview/index*",
+      "sortNo": 1,
+      "sublist": [],
+      "zaResourceId": 77
+    },
+    {
+      "description": "ç›‘æ§ç®¡ç†",
+      "flag": "1",
+      "isAvaible": "1",
+      "level": 1,
+      "menuUrl": "#",
+      "name": "ç›‘æ§ç®¡ç†",
+      "resourceUrl": "#",
+      "sortNo": 2,
+      "sublist": [
+        {
+          "description": "è®¾å¤‡è¯¦ç»†æ€§èƒ½",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuIcon": "",
+          "menuUrl": "/reportfrom/toReportfromIndex",
+          "name": "è®¾å¤‡è¯¦ç»†æ€§èƒ½",
+          "parentId": 78,
+          "resourceUrl": "/reportfrom/toReportfromIndex*",
+          "sortNo": 3,
+          "sublist": [],
+          "zaResourceId": 79
+        },
+        {
+          "description": "ç›‘æ§é¡¹ä¿¡æ¯",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/latestdata/toLatestdataIndex",
+          "name": "ç›‘æ§é¡¹ä¿¡æ¯",
+          "parentId": 78,
+          "resourceUrl": "/latestdata/toLatestdataIndex*",
+          "sortNo": 4,
+          "sublist": [],
+          "zaResourceId": 80
+        },
+        {
+          "description": "å½“å‰å‘Šè­¦",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/alarmview/toAlarmByTree",
+          "name": "å½“å‰å‘Šè­¦",
+          "parentId": 78,
+          "resourceUrl": "/alarmview/toAlarmByTree",
+          "sortNo": 5,
+          "sublist": [],
+          "zaResourceId": 81
+        },
+        {
+          "description": "å†å²å‘Šè­¦",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/alarmview/toAlarmHistoryIndex",
+          "name": "å†å²å‘Šè­¦",
+          "parentId": 78,
+          "resourceUrl": "/alarmview/toAlarmHistoryIndex",
+          "sortNo": 6,
+          "sublist": [],
+          "zaResourceId": 82
+        }
+      ],
+      "zaResourceId": 78
+    },
+    {
+      "description": "æ•°æ®æŠ¥è¡¨",
+      "flag": "1",
+      "isAvaible": "1",
+      "level": 1,
+      "menuUrl": "#",
+      "name": "æ•°æ®æŠ¥è¡¨",
+      "resourceUrl": "#",
+      "sortNo": 7,
+      "sublist": [
+        {
+          "description": "cpu",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/report/toReportIndex",
+          "name": "cpu",
+          "parentId": 83,
+          "resourceUrl": "/report/toReportIndex",
+          "sortNo": 8,
+          "sublist": [],
+          "zaResourceId": 84
+        },
+        {
+          "description": "å¿™æ—¶",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/report/toReportBusy",
+          "name": "å¿™æ—¶",
+          "parentId": 83,
+          "resourceUrl": "/report/toReportBusy",
+          "sortNo": 9,
+          "sublist": [],
+          "zaResourceId": 85
+        },
+        {
+          "description": "ç£ç›˜",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/diskreport/toDiskReportIndex",
+          "name": "ç£ç›˜",
+          "parentId": 83,
+          "resourceUrl": "/diskreport/toDiskReportIndex",
+          "sortNo": 10,
+          "sublist": [],
+          "zaResourceId": 86
+        }
+      ],
+      "zaResourceId": 83
+    },
+    {
+      "description": "ç³»ç»Ÿç®¡ç†",
+      "flag": "1",
+      "isAvaible": "1",
+      "level": 1,
+      "menuUrl": "#",
+      "name": "ç³»ç»Ÿç®¡ç†",
+      "resourceUrl": "#",
+      "sortNo": 11,
+      "sublist": [
+        {
+          "description": "ä¸šåŠ¡ç³»ç»Ÿç®¡ç†",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/system/toSysTemIndex",
+          "name": "ä¸šåŠ¡ç³»ç»Ÿç®¡ç†",
+          "parentId": 87,
+          "resourceUrl": "/system/toSysTemIndex",
+          "sortNo": 12,
+          "sublist": [],
+          "zaResourceId": 88
+        },
+        {
+          "description": "å‘Šè­¦æ—¶é™ç®¡ç†",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/sla/querySla",
+          "name": "å‘Šè­¦æ—¶é™ç®¡ç†",
+          "parentId": 87,
+          "resourceUrl": "/sla/querySla",
+          "sortNo": 13,
+          "sublist": [],
+          "zaResourceId": 89
+        },
+        {
+          "description": "ç”¨æˆ·ç®¡ç†",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/sys/users/toUsersIndex",
+          "name": "ç”¨æˆ·ç®¡ç†",
+          "parentId": 87,
+          "resourceUrl": "/sys/users/toUsersIndex",
+          "sortNo": 14,
+          "sublist": [],
+          "zaResourceId": 90
+        },
+        {
+          "description": "ç”¨æˆ·ç»„ç®¡ç†",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/systemManagement/userGroupManagement",
+          "name": "ç”¨æˆ·ç»„ç®¡ç†",
+          "parentId": 87,
+          "resourceUrl": "/systemManagement/userGroupManagement",
+          "sortNo": 15,
+          "sublist": [],
+          "zaResourceId": 91
+        },
+        {
+          "description": "æƒé™ç®¡ç†",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/usgrresource/toUsgrResourceIndex",
+          "name": "æƒé™ç®¡ç†",
+          "parentId": 87,
+          "resourceUrl": "/usgrresource/toUsgrResourceIndex",
+          "sortNo": 16,
+          "sublist": [],
+          "zaResourceId": 92
+        }
+      ],
+      "zaResourceId": 87
+    },
+    {
+      "description": "é…ç½®ç®¡ç†",
+      "flag": "1",
+      "isAvaible": "1",
+      "level": 1,
+      "menuUrl": "#",
+      "name": "é…ç½®ç®¡ç†",
+      "resourceUrl": "#",
+      "sortNo": 17,
+      "sublist": [
+        {
+          "description": "ä¸»æœºé…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/hostsprofile/toIndex",
+          "name": "ä¸»æœºé…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/hostsprofile/toIndex",
+          "sortNo": 18,
+          "sublist": [],
+          "zaResourceId": 94
+        },
+        {
+          "description": "ä¸»æœºç»„é…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/group/listGroup",
+          "name": "ä¸»æœºç»„é…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/group/listGroup",
+          "sortNo": 19,
+          "sublist": [],
+          "zaResourceId": 95
+        },
+        {
+          "description": "åŠ¨ä½œé…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/action/toActiontIndex",
+          "name": "åŠ¨ä½œé…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/html/actionmanage/actionmanage.html",
+          "sortNo": 20,
+          "sublist": [],
+          "zaResourceId": 96
+        },
+        {
+          "description": "æ¨¡æ¿é…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/template/templateConf",
+          "name": "æ¨¡æ¿é…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/template/templateConf",
+          "sortNo": 21,
+          "sublist": [],
+          "zaResourceId": 97
+        },
+        {
+          "description": "ç»´æŠ¤æœŸé…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/maintenance/toMaintenanceList",
+          "name": "ç»´æŠ¤æœŸé…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/maintenance/toMaintenanceList",
+          "sortNo": 22,
+          "sublist": [],
+          "zaResourceId": 98
+        },
+        {
+          "description": "æ‹“æ‰‘é…ç½®",
+          "flag": "1",
+          "isAvaible": "1",
+          "level": 2,
+          "menuUrl": "/topology/toTopologylist",
+          "name": "æ‹“æ‰‘é…ç½®",
+          "parentId": 93,
+          "resourceUrl": "/topology/toTopologylist",
+          "sortNo": 23,
+          "sublist": [],
+          "zaResourceId": 99
+        }
+      ],
+      "zaResourceId": 93
+    }
+  ],
+  "info": "è·å–èœå•æˆåŠŸï¼"
+}
